@@ -1,8 +1,9 @@
 #include<iostream>
+
+using namespace std;
 int main()
 {
-	std::cout << "main function" << std::endl;
+	cout << "main function" << endl;
 	//TODO:Show the each branch name
-
 	return 0;
 }
